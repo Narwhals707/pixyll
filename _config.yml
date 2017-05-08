@@ -1,8 +1,8 @@
 # Site settings
-title:       Not The Worst Blog Ou There
+title:       Not The Worst Blog Out There
 email:       gusbloxham@btopenzone.com
 author:      Gus Bloxham
-description: "Well, I hope it's not the worst"
+description: "Well, I hope it's not the worst..."
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
