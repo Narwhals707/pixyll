@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Not The Worst Blog Ou There
+email:       gusbloxham@btopenzone.com
+author:      Gus Bloxham
+description: "Well, I hope it's not the worst"
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
@@ -73,7 +73,7 @@ share_googleplus: false
 share_linkedin: false
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
 
@@ -89,7 +89,7 @@ text:
     linkedin:     'Share on LinkedIn'
     digg:         'Share on Digg'
     tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
+    reddit:       BanarniaIsHere
     stumbleupon:  'Share on StumbleUpon'
     hackernews:   'Share on Hacker News'
   post:
